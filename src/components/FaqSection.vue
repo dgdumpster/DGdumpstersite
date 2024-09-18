@@ -37,11 +37,6 @@ relocate the dumpster to your new desired location for an additional charge.">
       </v-expansion-panel>
 
       <v-expansion-panel
-          title="Do I need to pick the dumpster up?"
-          text="No! D&G Dumpsters will deliver the dumpster to your preferred location.">
-      </v-expansion-panel>
-
-      <v-expansion-panel
           title="Can I set up a recurring dumpster delivery?"
           text="Yes, we've worked with clients before that have needs for scheduled regular dumpster delivery. Give us
                 a call and we can discuss your specific needs.">

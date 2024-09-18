@@ -23,6 +23,17 @@
       but also benefiting from personalized attention and dedication that larger companies often overlook.
     </p>
   </div>
+
+  <v-img
+      class="heroImage"
+      src="../assets/DumpsterPhoto.png"
+      width="70%"
+      height="auto"
+      max-width="800"
+      max-height="1500"
+  />
+
+
 </template>
 
 <style scoped>
