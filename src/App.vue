@@ -1,8 +1,8 @@
 <template>
   <HeaderLogo />
   <HeroSection />
-  <DumpsterCalculator />
   <DumpsterPhoneNumber/>
+  <DumpsterCalculator />
   <JunkRemovalSection/>
   <PhoneNumber />
   <FaqSection />

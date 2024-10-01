@@ -93,8 +93,7 @@ watch(rentalDays, calculateCost);
 .calculator {
   max-width:50%;
   margin: 0 auto;
-
-  margin-bottom: 2.5%;
+  margin-bottom: 10%;
   padding: 2%;
   background-color: #f0f0f0;
   border: 1px solid #ccc;
@@ -111,6 +110,7 @@ watch(rentalDays, calculateCost);
 }
 
 h1 {
+
   text-align: center;
   margin-bottom: 20px;
   color: black;
@@ -215,6 +215,7 @@ button.selected:hover {
   }
 
   #dCostLabel {
+
     font-size: xx-large;
   }
 
@@ -224,7 +225,7 @@ button.selected:hover {
 .dCostLabel {
   color: #eb1c25;
   font-size: xxx-large;
-  margin-top: 15%;
+  margin-top: 20%;
 }
 
 </style>

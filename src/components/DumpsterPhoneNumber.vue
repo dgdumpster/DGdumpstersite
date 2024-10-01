@@ -14,7 +14,7 @@
 .dphoneContainer {
   display: flex;
   flex-direction: column;
-  margin-bottom: 20%;
+
 }
 
 .dphoneNumber {
