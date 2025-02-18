@@ -75,11 +75,11 @@ function calculateCost() {
   const extraRentalDaysCost = extraDays > 0 ? extraDays * perDayCost : 0;
 
   if (selectedDumpsterSize.value === '10') {
-    total = 325 + extraRentalDaysCost;
+    total = 350 + extraRentalDaysCost;
   } else if (selectedDumpsterSize.value === '15') {
-    total = 375 + extraRentalDaysCost;
+    total = 400 + extraRentalDaysCost;
   } else if (selectedDumpsterSize.value === '20') {
-    total = 425 + extraRentalDaysCost;
+    total = 450 + extraRentalDaysCost;
   }
 
   totalCost.value = total.toFixed(2); // Store total cost, rounded to 2 decimal places
