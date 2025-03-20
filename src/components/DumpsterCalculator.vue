@@ -60,7 +60,7 @@ import { ref, watch } from 'vue';
 
 const selectedDumpsterSize = ref('10'); // Default selected dumpster size
 const rentalDays = ref(5); // Default rental days
-const totalCost = ref(325); // Variable to hold the calculated total cost
+const totalCost = ref(350); // Variable to hold the calculated total cost
 const perDayCost = 20;
 
 function selectDumpsterSize(size) {
