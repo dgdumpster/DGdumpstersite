@@ -9,7 +9,7 @@
   </div>
   <v-img
       class="heroImage"
-      src="../assets/DumpsterPhotoHouse.JPG"
+      src="DumpterPhotoHouse.png"
       width="50%"
       height="auto"
       max-width="800"
