@@ -7,7 +7,14 @@
     <a href="tel:+15864986935"><h1 class="phoneNumber">586-498-6935</h1></a>
     <p>Call today for your free estimate!</p>
   </div>
-
+  <v-img
+      class="heroImage"
+      src="../assets/DumpsterPhotoHouse.JPG"
+      width="50%"
+      height="auto"
+      max-width="800"
+      max-height="1500"
+  />
 </template>
 
 <style scoped>
