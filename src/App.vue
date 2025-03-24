@@ -2,9 +2,11 @@
   <HeaderLogo />
   <HeroSection />
   <DumpsterPhoneNumber/>
+  <ImageComp2 />
   <DumpsterCalculator />
   <JunkRemovalSection/>
   <PhoneNumber />
+  <ImageComp />
   <FaqSection />
   <SocialLinkBar />
 </template>
@@ -18,11 +20,14 @@ import SocialLinkBar from "@/components/SocialLinkBar.vue";
 import PhoneNumber from "@/components/PhoneNumber.vue";
 import DumpsterPhoneNumber from "@/components/DumpsterPhoneNumber.vue";
 import JunkRemovalSection from "@/components/JunkRemovalSection.vue";
+import ImageComp from "@/components/ImageComp.vue";
+import ImageComp2 from "@/components/ImageComp2.vue";
 
 
 export default {
   name: 'App',
   components: {
+    ImageComp2,
     JunkRemovalSection,
     DumpsterPhoneNumber,
     PhoneNumber,
@@ -31,6 +36,7 @@ export default {
     DumpsterCalculator,
     FaqSection,
     SocialLinkBar,
+    ImageComp,
   }
 }
 
